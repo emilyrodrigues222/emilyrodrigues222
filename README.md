@@ -1,7 +1,5 @@
 ### SOBRE MIM 👋
-
-<!--
-**emilyrodrigues222/emilyrodrigues222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emilyrodrigues222/emilyrodrigues222**
 
 - 🔭 Olá meu nome é Emily Rodrigues
 - 🌱 Bem vindo ao meu perfil GitHub👋
