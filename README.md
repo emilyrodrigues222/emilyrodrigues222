@@ -15,4 +15,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyrodrigues222-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilyrodrigues222-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<div class="tenor-gif-embed" data-postid="14796708" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708">Cat Funny Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
